@@ -26,7 +26,7 @@ This project demonstrates how Streamlit can be used to create interactive web ap
 ```text
 portfolio
 │
-├── app.py
+├── homepage
 ├── requirements.txt
 └── pages/
     ├── 1_🏠_Home.py
